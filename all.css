@@ -95,7 +95,7 @@
     width: 24%;
     text-align: center;
     justify-content: center;
-    background: #a2caff;
+    /* background: #a2caff; */
     position: relative;
 }
 
@@ -105,6 +105,10 @@
 
 .title img {
     width: 100%;
+}
+
+.title h2 {
+    position: absolute;
 }
 
 .star {
