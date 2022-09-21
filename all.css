@@ -77,8 +77,9 @@
 .course2 {
     max-width: 1200px;
     margin: 0 auto;
-    position: relative;
+
 }
+
 
 .box1,
 .box2 {
@@ -95,6 +96,7 @@
     text-align: center;
     justify-content: center;
     background: #a2caff;
+    /* position: relative; */
 }
 
 .title h2 {
@@ -103,6 +105,11 @@
 
 .title img {
     width: 100%;
+}
+
+.star {
+    position: absolute;
+    width: 2%;
 }
 
 
